@@ -1,5 +1,5 @@
 # HTS voice tohoku-f01
-Copyright (c) 2015 Intelligent Communication Network (Ito-Nose) Laboratory
+Copyright (c) 2015 Intelligent Communication Network (Ito-Nose) Laboratory  
                    Tohoku University.
 
 tohoku-f01 is released by Intelligent Communication Network Laboratory, Tohoku University.
